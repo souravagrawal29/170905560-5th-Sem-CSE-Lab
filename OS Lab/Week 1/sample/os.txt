@@ -1,0 +1,4 @@
+Welcome to Manipal
+Week 1
+OS Lab
+Trying out the cat command for creating a new file
