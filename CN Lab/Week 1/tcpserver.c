@@ -28,7 +28,7 @@ int main(){
 		exit(0);
 	}
 	else{
-		printf("Socket successfully binded... \n");
+		printf("Socket successfully bound... \n");
 	}
 
 	if(listen(sockfd,5)!=0){
