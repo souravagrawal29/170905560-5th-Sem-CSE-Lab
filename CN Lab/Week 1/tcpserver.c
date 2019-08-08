@@ -11,7 +11,7 @@ int main(){
 	int i,value;
 	//Creation of an unnamed socket
 	sockfd = socket(AF_INET,SOCK_STREAM,0);
-	if(sockfd==-1){
+	if(sockfd<0){
 		printf("Socket creation failed...\n");
 		exit(0);
 	}
