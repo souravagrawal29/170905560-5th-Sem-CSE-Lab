@@ -1,0 +1,3 @@
+helpk needed
+only one str input
+string not present
